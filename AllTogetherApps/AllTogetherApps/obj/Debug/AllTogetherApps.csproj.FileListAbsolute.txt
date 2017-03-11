@@ -1,0 +1,11 @@
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\bin\Debug\AllTogetherApps.exe.config
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\bin\Debug\AllTogetherApps.exe
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\bin\Debug\AllTogetherApps.pdb
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\obj\Debug\AllTogetherApps.Form1.resources
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\obj\Debug\AllTogetherApps.FPSCal.resources
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\obj\Debug\AllTogetherApps.Properties.Resources.resources
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\obj\Debug\AllTogetherApps.csproj.GenerateResource.Cache
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\obj\Debug\AllTogetherApps.exe
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\obj\Debug\AllTogetherApps.pdb
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\obj\Debug\AllTogetherApps.Apps.Background.resources
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\AllTogetherApps\AllTogetherApps\obj\Debug\AllTogetherApps.csprojResolveAssemblyReference.cache
